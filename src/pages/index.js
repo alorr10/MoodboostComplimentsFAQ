@@ -32,6 +32,15 @@ const IndexPage = () => (
         <h3> I heard it can magically detect when I smile?</h3>
         <p>Impossible. Or is it? Go to settings to turn it on.</p>
 
+        <h3>Does the smile camera take/save photos or videos?</h3>
+        <p>Nope. Never. Nothing is ever saved or stored anywhere.</p>
+
+        <h3> Why do I have to log in with IG? </h3>
+        <p>
+          Do you really want to have to remember another password? Plus, after
+          you login with IG you can chat anonymously in the app.
+        </p>
+
         <h3> How do I send stuff? </h3>
         <p>Search for a name in the app or use their link!</p>
       </div>
